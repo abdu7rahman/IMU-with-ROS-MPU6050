@@ -1,4 +1,4 @@
-# IMU-with-ROS-MPU6050
+## IMU-with-ROS-MPU6050
 
 # Vcc-
 The Vcc pin powers the sensor, typically with +5V.
